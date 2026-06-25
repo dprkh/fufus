@@ -18,7 +18,6 @@ Fufus turns a static product catalog into a conversational shopping experience: 
 
 - **Agentic commerce UX**: a shopping-focused chat agent can clarify intent, search a catalog, and render structured product cards in one flow.
 - **Tool-grounded recommendations**: the assistant is instructed to recommend only products returned from the catalog search tool.
-- **Recruiter-friendly full stack slice**: the repo includes the UI, chat API route, agent configuration, tool schemas, product search index, and sample product data.
 - **Multimodal input path**: users can attach images, and the agent can use visual context to form product searches.
 - **Fast local retrieval**: MiniSearch indexes 9,287 products across fashion, electronics, home, and sports categories.
 - **Mobile-first polish**: the interface is built around a compact phone-like shopping surface with streamed responses, option chips, product cards, image previews, and loading states.
